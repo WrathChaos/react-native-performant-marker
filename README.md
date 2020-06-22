@@ -60,6 +60,10 @@ Inside of the FastImage is just a recommendation for CustomMarker image usage. I
 </PerformantMarker>
 ```
 
+## Credits
+
+Thank you so much for the cool icon by (Flaticon)[https://www.flaticon.com/free-icon/landscape_3069254]
+
 ## Author
 
 FreakyCoder, kurayogun@gmail.com
