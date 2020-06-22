@@ -1,8 +1,14 @@
 {
-  "name": "react-native-library-boilerplate",
-  "version": "0.0.2",
-  "description": "Description for library",
+  "name": "react-native-performant-marker",
+  "version": "0.1.0",
+  "description": "A simple wrapper for better performance of react-native-maps' marker component.",
   "keywords": [
+    "marker",
+    "maps",
+    "react-native-maps",
+    "performance",
+    "better",
+    "wrapper",
     "FreakyCoder",
     "freakycoder",
     "kuray",
@@ -14,13 +20,12 @@
     "rn"
   ],
   "homepage": "https://www.freakycoder.com",
-  "bugs": "https://github.com/WrathChaos/react-native-library-boilerplate/issues",
-  "main": "./lib/src/index.js",
-  "repository": "git@github.com:WrathChaos/react-native-library-boilerplate.git",
+  "bugs": "https://github.com/WrathChaos/react-native-performant-marker/issues",
+  "main": "./lib/PerformantMarker.js",
+  "repository": "git@github.com:WrathChaos/react-native-performant-marker.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": ">= 16.x.x",
-    "react-native": ">= 0.55.x"
+    "react-native-maps": ">= 0.26.1"
   }
 }
